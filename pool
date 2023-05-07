@@ -1,0 +1,163 @@
+
+  </head>
+
+  <body>
+    <div class="wrap">
+      <div class="header header2 theme_color3">
+        <h1 class="uppercase center bolder theme_color">СУПЕР-ШВАБРА 3 В 1</h1>
+        <h2 class="uppercase center theme_color">ЧИСТОТА В ДОМі ЛЕГКО і ПРОСТО</h2>
+        <div class="header_img"></div>
+        <div class="price2">
+          <div class="old">
+            Звичайна ціна:
+            <span class><s>1290 грн</s></span>
+          </div>
+          <div class="sale b uppercase">
+            акція!
+            <span class="bolder">-53%</span>
+            знижка
+          </div>
+          <div class="new white">
+            Ціна по акції:
+            <span class="b">590 грн</span>
+          </div>
+        </div>
+        <div class="bg_white">
+          <ul class="ul_header2 center">
+            <li>
+              <img src="images/r4-7fsuj.jpg">
+              <p><b>Сама розпилює воду</b></p>
+            </li>
+            <li>
+              <img src="images/1.PNG">
+              <p><b>Насадки з двухслойної мікрофібри</b></p>
+            </li>
+            <li>
+              <img src="images/xh7bafng.jpg">
+              <p>
+                <b>Зручна <br>ручка-тримач</b>
+              </p>
+            </li>
+          </ul>
+          <!-- <div class="timer_block clearfix">
+            <p>Акция с <span class="by"></span> по <span class="to"></span></p>
+            <div class="timer clearfix bolder">
+              <div class="timer_item hours">00</div>
+              <div class="timer_item minutes">00</div>
+              <div class="timer_item seconds">00</div>
+            </div>
+          </div> -->
+        </div>
+        <a href="#order_form" class="button-m1">Замовити</a>
+         <div class="products_count center">Кожен наступний товар <b>на 100 грн</b> дешевше</div> 
+      </div>
+
+      <div class="descript">
+        <section class="main_video">
+          <div class="video-container">
+            <iframe width="100%" height="270" src="https://www.youtube.com/embed/mpl5BMob10w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </section>
+        <h2 class="title">
+          <span class="smalltitle">ВАШ ПОМІЧНИК В ПРИБИРАННІ КОЖНИЙ ДЕНЬ</span>
+          <span class="bolder">СУПЕР-ШВАБРА 3 В 1</span>
+        </h2>
+        <p class="just">
+          Цей помічник зробить ваше життя простішим. . Забудьте про розтертості, відра і
+          важку працю під час прибирання підлоги. Супер-швабра – це все, що потрібно для прибирання.
+        </p>
+        <img class="center" src="images/htxoomdn.png">
+        <p class="just">
+          Супер-швабра сама розпилює воду - тому вона супер! Одна з насадок зроблена з мікрофібри, що дозволяє
+          витирати підлогу без розтікань. Супер-швабра подолає будь-які забруднення, навіть найскладніші. Усього пара
+          рухів відокремлює вас від мега чистої підлоги у будинку. Супер-швабра підходить для миття будь-яких поверхонь, навіть
+          натурального каменю.
+        </p>
+        <img class="center" src="images/t3v_fggk.png">
+      </div>
+
+      <div class="list theme_color">
+        <h2 class="title2"><span class="bolder"> переваги швабри</span></h2>
+        <ul class="list2">
+          <li>
+            <div class="text">
+              <h3>Забудьте про відра з водою</h3>
+              <p>Ви можете залити воду або розчин для миття підлоги прямо. в ємкість для розпилення.</p>
+            </div>
+            <img src="images/disnokp7.jpg">
+          </li>
+          <li>
+            <div class="text">
+              <h3>Насадки з двухслойної мікрофібри</h3>
+              <p>Насадки з мікрофібри чудово впораються з будь-якими забрудненнями і не залишать розмитостей.</p>
+            </div>
+            <img src="images/gcxktlm6.jpg">
+          </li>
+          <li>
+            <div class="text">
+              <h3>Чистота навіть в кутках і плінтусах</h3>
+              <p>
+                Швабра повертається в будь-яку сторону, що дозволяє вимити підлогу навіть в важкодоступних
+                місцях.
+              </p>
+            </div>
+            <img src="images/j8pu9xi5.jpg">
+          </li>
+          <li>
+            <div class="text">
+              <h3>Довговічна супер-швабра</h3>
+              <p>
+                Матеріал алюміній і пластик, з якого виготовлена швабра, робить її міцною і одночасно легкою.
+              </p>
+            </div>
+            <img src="images/mrtro_5d.jpg">
+          </li>
+        </ul>
+        <a href="#order_form" class="button-m1">Замовити товар</a>
+            <div class="products_count center">Кожен наступний товар <b>на 100 грн</b> дешевше</div>
+      </div>
+
+      <div class="descript">
+        <h2 class="title">БІЛЬШЕ <span class="bolder">ПРО НАСАДКИ</span></h2>
+        <img class="center" src="images/wyn7vt2i.png">
+        <p class="just">
+          Насадка виготовлена з мікрофібри, яка, у свою чергу, складається з мікроволокон. Саме тому можна
+          стверджувати, що вона добре справляється із забрудненнями і якісно вбирає вологу.
+        </p>
+        <p class="just"></p>
+      </div>
+
+      <div class="list_white">
+        <h2 class="title">ІНСТРУКЦІЯ <span class="bolder">СУПЕР-ШВАБРИ</span></h2>
+
+        <ul class="list4">
+          <li class="left_img">
+            <img src="images/j8pu9xi5-2.jpg">
+            <p>Залийте в ємкість проточну воду або спеціальний розчин для миття підлоги.</p>
+          </li>
+          <li class="right_img">
+            <img src="images/mrtro_5d-2.jpg">
+            <p>Закріпіть ємкість одним легеньким рухом.</p>
+          </li>
+          <li class="left_img">
+            <img src="images/qllosl1c.jpg">
+            <p>Розпиліть розчин і витріть підлогу насадкою.</p>
+          </li>
+        </ul>
+      </div>
+
+      <div class="theme_color">
+        <h2 class="title2 mar_bot0">Відгуки <span class="bolder">покупців</span></h2>
+        <div class="reviews">
+          <div class="rev">
+            <div class="avtor">
+              <img src="images/k137b8sw.jpg" class="ava">
+              <p class="name"><b>Анісімова Катерина</b> Одеса, 32 роки</p>
+            </div>
+            <div class="just">
+              Відмінний винахід для полегшення жіночої праці! Сподобалася її міцна конструкція та сам процес миття
+              підлги. З нею просто немає жодних незручностей із відрами та ганчірками, залила в резервуар воду, додала миюче
+              для підлоги – краса. Найголовніше, що ця швабра заощаджує час! Ще вона маневрена і дістає в
+              важкодоступних місцях! Гарна швабра.
+            </div>
+          </div>
